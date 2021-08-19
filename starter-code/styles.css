@@ -1,0 +1,99 @@
+/* Nav Bar */
+
+#row1 {
+    background-color: white;
+    
+}
+
+.navbar-brand {
+    position: relative;
+    min-height: 1px;
+    padding-right: 250px;
+    padding-left: 15px;
+    font-weight: bolder;
+}
+
+#homeText {
+    color: red;
+}
+
+/* Carousel */
+
+.flex-caption {
+    width: 800px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-left: -400px;
+    text-align: center;
+    z-index: 120;
+    color: #fff;
+}
+
+#row2 {
+    color: white;
+}
+
+.carousel-control-prev {
+    background-color: red;
+    color: white;
+    width: 50px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+}
+
+.carousel-control-next {
+    background-color: red;
+    color: white;
+    width: 50px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+}
+
+.grey{
+    filter: grayscale(100%)
+}
+
+
+/* NEXT CONTAINER*/
+
+#container {
+padding: 50px 250px 50px 250px;
+}
+
+
+
+#row3 {
+    background-color: tomato;
+    color: white;
+}
+
+#row4 {
+    background-color: white;
+}
+
+#row5 {
+    background-color: white;
+}
+
+#row6 {
+    background-color: white;
+}
+
+#row7 {
+    background-color: white;
+}
+
+#row8 {
+    background-color: grey;
+    font-size: smaller;
+    border-top: tomato 1px solid;
+}
+
+#row9 {
+    background-color: black;
+    color: white;
+}
+
